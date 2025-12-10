@@ -2,6 +2,8 @@
 
 **Nom du projet : À REMPLACER PAR LE GROUPE**
 
+Test ##
+
 Bienvenue dans ce petit TP Git.
 
 Vous modifierez plusieurs fichiers simples via différents tickets.
